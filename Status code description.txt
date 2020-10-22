@@ -1,0 +1,16 @@
+Send2OA
+Status Code Description
+
+[English]
+Return Status Code
+=
+1 : All DONE
+2 : FAILED
+3 : ERROR
+
+[Chinese]
+返回状态码
+=
+1：全部完成
+2：失败
+3：发生错误
